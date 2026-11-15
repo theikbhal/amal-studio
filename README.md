@@ -22,7 +22,7 @@ Subhanallah (and Subhanallahi wa bihamdihi), Alhamdulillah, La ilaha illallah, A
 ## Install (Mac, one command)
 Requires macOS 13+ and Xcode (or `xcode-select --install`).
 ```bash
-git clone https://github.com/<your-username>/amal-studio.git
+git clone https://github.com/theikbhal/amal-studio.git
 cd amal-studio
 ./scripts/install.sh
 ```
